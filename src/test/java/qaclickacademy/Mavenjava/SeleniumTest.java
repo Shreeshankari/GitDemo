@@ -27,4 +27,9 @@ public void elementUI() {
 			System.out.println("elementUI1");
 		}
 	
+	@Test
+	public void elementUI2() {
+			System.out.println("elementUI2");
+		}
+	
 }

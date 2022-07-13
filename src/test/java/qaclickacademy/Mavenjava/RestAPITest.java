@@ -9,6 +9,9 @@ public class RestAPITest {
 	System.out.println("postJiracg");
 	System.out.println("postJiracg");
 	System.out.println("postJiracg");
+	System.out.println("postJiracg1");
+	System.out.println("postJiracg2");
+	System.out.println("postJiracg3");
 	}
 	
 	@Test
